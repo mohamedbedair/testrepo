@@ -1,12 +1,1 @@
-<<<<<<< HEAD
-commit 1
-<<<<<<< HEAD
-commit 2
-commit 3
-commit 4
-=======
-commit 2
->>>>>>> parent of dc054ed... commit 3
-=======
-commit 1
->>>>>>> parent of 450f1db... commit 2
+commit 6
